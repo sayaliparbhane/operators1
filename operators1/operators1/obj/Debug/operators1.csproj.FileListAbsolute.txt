@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\operators1\operators1\bin\Debug\operators1.exe.config
+C:\Users\ACER\source\repos\operators1\operators1\bin\Debug\operators1.exe
+C:\Users\ACER\source\repos\operators1\operators1\bin\Debug\operators1.pdb
+C:\Users\ACER\source\repos\operators1\operators1\obj\Debug\operators1.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\operators1\operators1\obj\Debug\operators1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\operators1\operators1\obj\Debug\operators1.exe
+C:\Users\ACER\source\repos\operators1\operators1\obj\Debug\operators1.pdb
